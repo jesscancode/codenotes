@@ -2,6 +2,8 @@
 layout: default
 title: SQL
 nav_order: 0
+has_children: true
+permalink: /docs/sql
 ---
 ### RANK()
 ```sql

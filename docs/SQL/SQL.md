@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: SQL
 nav_order: 99
 ---
 
@@ -32,12 +32,6 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### [](#header-4)Header 4 `with code not transformed`
 

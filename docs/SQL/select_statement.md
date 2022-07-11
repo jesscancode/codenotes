@@ -1,7 +1,8 @@
 ---
 layout: default
 title: SELECT STATEMENT
-nav_order: 0
+parent: SQL
+nav_order: 1
 ---
 ### SELECT STATEMENT
 ```sql

@@ -17,7 +17,7 @@ remote_theme: jesscancode/codenotes
   
 title: Just the Docs
 description: A Jekyll theme for documentation
-baseurl: "/codenotes3" # the subpath of your site, e.g. /blog
+baseurl: "/codenotes" # the subpath of your site, e.g. /blog
 url: "https://jesscancode.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty

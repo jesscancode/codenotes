@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQL
-nav_order: 99
+nav_order: 0
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
